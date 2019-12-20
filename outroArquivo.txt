@@ -1,1 +1,2 @@
-algum texto novo de exemplo && algum texto antigo de exemplo
+algum texto novo de exemplo && texto antigo de exemplo
+mais algum texto
